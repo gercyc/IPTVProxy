@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="IPTVProxy.Common/IPTVProxy.Common.csproj" Id="c718de17-f970-41ed-8244-e75302245141" />
+  <Project Path="IPTVProxy/IPTVProxy.csproj" />
+  <Project Path="IPTVProxyMinimal/IPTVProxyMinimal.csproj" Id="c9b7cfbe-440f-4f13-8bce-592d2842694f" />
+</Solution>
