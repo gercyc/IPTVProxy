@@ -362,6 +362,4 @@ Para dúvidas ou problemas:
 ---
 
 **Desenvolvido com ❤️ para a comunidade IPTV**
-
-**Última atualização:** 2024
 **Versão:** .NET 10.0
